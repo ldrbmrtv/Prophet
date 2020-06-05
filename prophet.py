@@ -1,4 +1,3 @@
-from collections import Counter
 from math import log
 import numpy as np
 from operator import itemgetter
