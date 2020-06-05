@@ -6,7 +6,7 @@ import prophet
     
 if __name__ == '__main__':
 
-    n = 25
+    n = 100
     d = 4
     k = 10
     
